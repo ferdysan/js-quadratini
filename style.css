@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.container{
+  width: 100%;
+  float: left;
+}
+
+
+.square{
+  float: left;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+
+.square_red{
+  background-color: red;
+}
+
+.square_green{
+  background-color: green;
+}
