@@ -9,7 +9,8 @@
 }
 
 
-.square{
+.square,
+.square-red{
   float: left;
   width: 100px;
   height: 100px;
